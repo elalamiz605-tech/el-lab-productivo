@@ -261,3 +261,4 @@ main,.ftop,.foot{position:relative;z-index:2}
 .wp-block-navigation-item,.ftop li{flex:0 0 auto!important;min-width:max-content!important}
 @media(max-width:640px){.wp-block-navigation__container{overflow-x:auto!important;max-width:calc(100vw - 32px)!important;scrollbar-width:none}}
 @media(max-width:640px){.nav{flex-wrap:wrap!important;overflow:visible!important;row-gap:4px!important;column-gap:18px!important}.nav a{font-size:12px!important;letter-spacing:.1em!important}}
+html{overflow-x:clip}
