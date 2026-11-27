@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elalamiz605-tech.github.io/el-lab-productivo/sitemap.xml
